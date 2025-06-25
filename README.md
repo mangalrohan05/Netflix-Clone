@@ -46,9 +46,6 @@ Netflix-Clone/
 - Mastery of **Flexbox** and **Grid** for modern CSS layout
 - Practicing design replication using only HTML & CSS
 
-## 📍 Live Demo
-
-[Click here to view live](https://mangalrohan05.github.io/Netflix-Clone/)
 
 ## 📝 Notes
 
