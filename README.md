@@ -2,9 +2,8 @@
 
 A static front-end clone of the Netflix homepage built using **HTML** and **CSS**. This project replicates the layout and design of Netflix's landing page, including navigation, featured banner, and content sections.
 
-## 📸 Preview
-
-> *(Add a screenshot here showing the homepage layout on desktop and mobile)*
+## 🔗 Live Preview
+👉 [View Project Online](https://mangalrohan05.github.io/Netflix-Clone/)
 
 ## 🚀 Features
 
